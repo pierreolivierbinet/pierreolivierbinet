@@ -1,4 +1,4 @@
-# Hey 👋, bienvenue!
+# Hey, bienvenue! 👋
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hey,%20moi%20c'est%20[%20Pierre-Olivier%20]&fontSize=40&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20Analyst&descAlign=50&descAlignY=70)
 
