@@ -4,7 +4,7 @@
 
 Hello!  Je m'appelle **Pierre-Olivier**. Originaire de Toulon, je suis actuellement en échange à l'**Université du Québec à Chicoutimi (UQAC)** dans le cadre de mon **Master Data Analytics et Stratégie de l'Information** (Université de Toulon, Ingémédia). 🏛️
 
-J'ai un grand intérêt pour l'analyse de données 📊 et la Business Intelligence 💻 ! J'étudie et je perfectionne actuellement ma maîtrise de **Python, SQL, et Power BI** dans l'objectif d'être un Data et Business Analyst accompli.
+J'ai un grand intérêt pour l'analyse de données et la Business Intelligence ! J'étudie et je perfectionne actuellement ma maîtrise de **Python, SQL, et Power BI** dans l'objectif d'être un Data et Business Analyst accompli.
 
 J'adore allier discipline, stratégie et analyse, que ce soit dans l'exploration de bases de données, lors de mes entraînements, ou dans mes sessions compétitives de jeu vidéo ! 
 
